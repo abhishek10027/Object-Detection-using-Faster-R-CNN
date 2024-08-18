@@ -29,7 +29,7 @@ This project utilizes the Microsoft COCO dataset, a widely-used resource in comp
 | Operating System   | Windows 10    |
 | CPU                | Intel Core i3 |
 | RAM                | 4 GB          |
-| Memory             | 250 GB HDD      |
+| Memory             | 250 GB HDD/SSD|
 
 ### Software Configuration
 
