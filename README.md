@@ -66,10 +66,12 @@ Four images were randomly selected from the COCO dataset for testing. The confid
   ![image](https://github.com/user-attachments/assets/2a88a4b4-38f6-4938-8ebd-22d8af65c4ce)
 
 - **Figure (d):** Person 1 - 99.53%, Person 2 - 99.39%
-  ![Uploading image.png…]()
+  
+  ![image](https://github.com/user-attachments/assets/5d2f2881-b88d-4069-abef-20e4b8105c66)
 
 
-The results indicate that the proposed model performs well for detecting larger objects with higher confidence scores.
+
+# The results indicate that the proposed model performs well for detecting larger objects with higher confidence scores.
 
 ## Conclusion
 
