@@ -40,7 +40,7 @@ This project utilizes the Microsoft COCO dataset, a widely-used resource in comp
 | Libraries          | OpenCV, torchvision, torch, Matplotlib, numpy |
 | Model              | CNN, RCNN, DNN                 |
 
-### Training Details
+## Training Details
 
 The training process utilizes a pre-trained Faster R-CNN model for object detection. The model is set to evaluation mode, and only high-confidence predictions are retained for visualization. The process involves:
 
@@ -48,21 +48,24 @@ The training process utilizes a pre-trained Faster R-CNN model for object detect
 - Extracting predictions based on confidence thresholds.
 - Visualizing results with bounding boxes and labels.
 
-### Testing Details
+## Testing Details
 
 During testing, images are resized and passed through the model, with a confidence threshold of 0.8 applied to retain high-confidence predictions. The results are visualized, showcasing the model's detection capabilities.
 
-### Results Description
+## Results Description
 
 Four images were randomly selected from the COCO dataset for testing. The confidence scores for detected objects are as follows:
 
 - **Figure (a):** Laptop - 86.07%
+  
   ![image](https://github.com/user-attachments/assets/187d2c89-20e6-4839-aec7-2a452fa84063)
 
 - **Figure (b):** Car - 93.5%
+  
   ![image](https://github.com/user-attachments/assets/b132c9e4-8de0-4b80-9b9b-bf3097c33d87)
 
 - **Figure (c):** Traffic Light - 99.69%
+  
   ![image](https://github.com/user-attachments/assets/2a88a4b4-38f6-4938-8ebd-22d8af65c4ce)
 
 - **Figure (d):** Person 1 - 99.53%, Person 2 - 99.39%
