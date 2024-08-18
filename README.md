@@ -14,7 +14,12 @@ The proposed method for object detection leverages the Faster R-CNN architecture
 - **ROI Align:** Ensures precise handling of regions of interest, improving detection accuracy.
 - **Anchors:** Pre-defined bounding boxes used for object classification and localization.
 
-The architecture diagram for the proposed methodology is illustrated in Figure 1.
+The architecture diagram for methodology is illustrated in Figure.
+
+![image](https://github.com/user-attachments/assets/8ec21707-2785-474b-8d45-5cece5e1c406)
+
+
+
 
 ## Dataset
 
